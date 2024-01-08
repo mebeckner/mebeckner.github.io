@@ -63,8 +63,8 @@
 		
 	strong, b
 	{
-		font-weight: 500;
-		color: #000000;
+		font-weight: 450;
+		color: #5a5a5a;
 	}
 	
 	em, i
@@ -947,7 +947,7 @@
 	{
 	}
 
-	#sidebar h2
+	#sidebar
 	{
 		display: block;
 		padding-bottom: 0.50em;
