@@ -43,7 +43,7 @@
 			line-height: 2em;
 			font-weight: 300;
 			color: #696969;
-			font-size: 20.5pt;
+			font-size: 20pt;
 		}
 
 		h3
@@ -71,7 +71,7 @@
 	}
 
 	.strikeout {
-		font-size: 4em;
+		font-size: 13pt;
 		position: relative;
 	  }
 	  .strikeout::after {
