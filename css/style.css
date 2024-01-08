@@ -43,6 +43,7 @@
 			line-height: 2em;
 			font-weight: 300;
 			color: #696969;
+			font-size: 19pt;
 		}
 
 		h3
@@ -121,7 +122,7 @@
 
 	header
 	{
-		margin-bottom: 1.6em;
+		margin-bottom: 1.2em;
 	}
 	
 
@@ -259,6 +260,7 @@
 			padding: 1.5em 0em 1em 0em;
 			border-top: 1px solid;
 			border-color: rgba(0,0,0,.1);
+			list-style: inside;
 		}
 		
 		ul.style li:first-child
