@@ -43,7 +43,7 @@
 			line-height: 2em;
 			font-weight: 300;
 			color: #696969;
-			font-size: 19pt;
+			font-size: 20.5pt;
 		}
 
 		h3
@@ -69,6 +69,21 @@
 		font-weight: 370;
 		color: #696969;
 	}
+
+	.strikeout {
+		font-size: 4em;
+		position: relative;
+	  }
+	  .strikeout::after {
+		border-bottom: 0.125em solid rgba(58, 120, 255, 0.45);
+		content: "";
+		left: 0;
+		line-height: 1em;
+		margin-top: calc(0.125em / 2 * -1);
+		position: absolute;
+		right: 0;
+		top: 50%;
+	  }
 	
 	em, i
 	{
