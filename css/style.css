@@ -71,7 +71,6 @@
 	}
 
 	.strikeout {
-		font-size: 13pt;
 		position: relative;
 	  }
 	  .strikeout::after {
@@ -862,7 +861,7 @@
 		z-index: 1;
 	}
 	
-		#logo h1
+		#logo
 		{
 			color: #FFF;
 		}
@@ -881,7 +880,7 @@
 		
 		#logo span
 		{
-			font-size: 1.4em;
+			font-size: 1.2em;
 			color: #FFF;
 		}
 
