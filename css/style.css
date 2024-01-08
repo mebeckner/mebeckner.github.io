@@ -45,11 +45,13 @@
 		h3
 		{
 			letter-spacing: -0.025em;
+			font-size: 15pt;
 		}
 
 		h4
 		{
 			letter-spacing: -0.025em;
+			font-size: 13pt;
 		}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -927,7 +929,7 @@
 		text-align: center;
 	}
 	
-	.homepage #content header h2
+	.homepage #content header h3
 	{
 	}
 
