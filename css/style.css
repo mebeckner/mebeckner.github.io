@@ -283,6 +283,19 @@
 			font-size: 8pt;
 			color: #A2A2A2;
 		}
+
+		ul.style .school {
+			padding: 0em 0em 0em 0.5em;
+			letter-spacing: 1px;
+			font-style: italic;
+			font-size: 11pt;
+			color: #A2A2A2;
+		}
+
+		ul.style .school1 {
+			padding: 0em 0em 0em 0em;
+			list-style: inside;
+		}
 		
 		ul.style .first {
 			padding-top: 0px;
