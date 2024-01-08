@@ -31,7 +31,7 @@
 		color: #7c7c7c;
 	}
 
-	h1,h2,h3,h4,h5,h6
+	h1,h3,h4,h5,h6
 	{
 		font-weight: 300;
 		color: #7c7c7c;
@@ -41,6 +41,8 @@
 		{
 			letter-spacing: -0.025em;
 			line-height: 2em;
+			font-weight: 300;
+			color: #696969;
 		}
 
 		h3
