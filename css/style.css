@@ -1000,6 +1000,11 @@
 	{
 		color: #FFF !important;
 	}
+
+	#footer header h2
+	{
+		color: #FFF !important;
+	}
 	
 	#footer header .byline
 	{
