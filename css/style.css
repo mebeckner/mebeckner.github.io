@@ -297,13 +297,6 @@
 			color: #A2A2A2;
 		}
 
-		ul.style .school {
-			padding: 0em 0em 0em 0.5em;
-			letter-spacing: 1px;
-			font-style: italic;
-			font-size: 11pt;
-			color: #A2A2A2;
-		}
 
 
 		ul.diff
@@ -327,9 +320,13 @@
 			}
 			ul.diff li:nth-child(2) {
 				list-style-image: url('images/user-group-solid.svg');
+				padding-top: 0;
+				border-top: none;
 			}
 			ul.diff li:nth-child(3) {
 				list-style-image: url('images/location-dot-solid.svg');
+				padding-top: 0;
+				border-top: none;
 			}
 
 	/* Buttons */
