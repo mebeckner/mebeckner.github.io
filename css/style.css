@@ -48,7 +48,7 @@
 
 		h3
 		{
-			font-size: 16.5pt;
+			font-size: 16.7pt;
 			line-height: 2em;
 		}
 
@@ -316,7 +316,32 @@
 			padding-top: 0px;
 			border-top: none;
 		}
+
+
+		ul.diff
+		{
+			margin: 0;
+			padding: 0em 0em 1.5em 0em;
+			list-style: none;
+		}
+		
+			ul.diff li
+			{
+				padding: 0.60em 0em;
+				font-size: 0.95em;
+				border-top: 1px solid;
+				border-color: rgba(0,0,0,.1);
+			}		
 							
+			ul.diff li:nth-child(1) {
+				list-style-image: url('images/building-columns-solid.svg');
+			}
+			ul.diff li:nth-child(2) {
+				list-style-image: url('images/user-group-solid.svg');
+			}
+			ul.diff li:nth-child(3) {
+				list-style-image: url('images/location-dot-solid.svg');
+			}
 
 	/* Buttons */
 		
