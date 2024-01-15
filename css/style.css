@@ -39,7 +39,7 @@
 	
 		h2
 		{
-			font-size: 2.7em;
+			font-size: 18pt;
 			letter-spacing: -0.025em;
 			line-height: 2em;
 			font-weight: 300;
@@ -48,7 +48,7 @@
 
 		h3
 		{
-			font-size: 17pt;
+			font-size: 17.3pt;
 			line-height: 2em;
 		}
 
@@ -342,7 +342,7 @@
 	{
 		position: relative;
 		display: inline-block;
-		background: #80BA8E;
+		background: rgb(140, 180, 222);
 		padding: 0.8em 2em;
 		text-decoration: none !important;
 		font-size: 1.2em;
@@ -359,7 +359,7 @@
 
 	.button:hover
 	{
-		background: #70AA7E;
+		background: rgb(140, 180, 222)
 		color: #FFF !important;
 	}
 
