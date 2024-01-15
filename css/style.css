@@ -250,7 +250,7 @@
 		ul.default
 		{
 			margin: 0;
-			padding: 0em 0em 1.5em 0em;
+			padding: 0em 0em 0em 0em;
 			list-style: none;
 		}
 		
@@ -323,11 +323,14 @@
 				list-style-image: url('images/user-group-solid.svg');
 				padding-top: 0;
 				border-top: none;
+				padding: 0em 0em 0em 0em;
+				color: rgb(140, 180, 222);
 			}
 			ul.diff li:nth-child(3) {
 				list-style-image: url('images/location-dot-solid.svg');
 				padding-top: 0;
 				border-top: none;
+				padding: 0em 0em 0em 0em;
 			}
 
 	/* Buttons */
